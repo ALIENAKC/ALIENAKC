@@ -9,12 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate with someone company
 -->
-### You can find me:
-
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://vk.com/momojugger">]
-[<img align="left" alt="ALIENAKC" width="22px" src="https://www.instagram.com/">]
-[<img align="left" alt="ALIENAKC" width="22px" src="https://github.com/ALIENAKC">]
-
 
 ### I know :
 
