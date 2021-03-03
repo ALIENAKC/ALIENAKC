@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning JavaScript
+- I also working on  HTML5
+- I currently working on CSS
 
 
 ### I know :
