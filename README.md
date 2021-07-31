@@ -7,9 +7,9 @@
 
 - 🌱 I know JavaScript
 - 🐍 Starting to learn Python
-- I  working on CSS
-- - I also working on  HTML5
--  🎵 My Spotify https://open.spotify.com/user/momojugger?si=a232340f51ae4621
+- 🎯 I  working on CSS
+- 📌 I also working on  HTML5
+- 🎵 My Spotify https://open.spotify.com/user/momojugger?si=a232340f51ae4621
 
 ### I know :
 
