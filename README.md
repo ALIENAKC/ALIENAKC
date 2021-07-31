@@ -5,11 +5,11 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I  working on JavaScript
-- 🌱 I learning JavaScript
-- I also working on  HTML5
-- I currently working on CSS
-- My Spotify https://open.spotify.com/user/momojugger?si=a232340f51ae4621
+- 🌱 I know JavaScript
+- 🐍 Starting to learn Python
+- I  working on CSS
+- - I also working on  HTML5
+-  🎵 My Spotify https://open.spotify.com/user/momojugger?si=a232340f51ae4621
 
 ### I know :
 
